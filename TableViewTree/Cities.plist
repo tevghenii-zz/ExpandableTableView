@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Chișinău</string>
+		<key>Description</key>
+		<string>Chișinău (/ˌkɪʃᵻˈnaʊ/; Romanian: [kiʃiˈnəw] (About this sound listen), also known as Kishinev (Russian: Кишинёв, tr. Kishinyov), is the capital and largest city of the Republic of Moldova. The city is Moldova&apos;s main industrial and commercial center, and is located in the middle of the country, on the river Bîc. According to the preliminary results of the 2014 census, the city of Chișinău is home to 492,894 residents.[3] The estimated number of resident population in the Municipality of Chișinău (which includes other nearby communities), as of 1 January 2015, is 736,100.[4]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Milan</string>
+		<key>Description</key>
+		<string>Milan (English: /mᵻˈlæn/ or US: /mᵻˈlɑːn/;[2] Italian: Milano [miˈlaːno] (About this sound listen); Lombard: Milan [miˈlã] (Milanese variant))[3] is a city in Italy, capital of the Lombardy region, and the largest metropolitan area and the second most populous comune in Italy. The population of the city proper is 1,369,000,[4] and that of the Metropolitan City of Milan is 3,219,000.[4] According to Eurostat, the commuting area counts 4,252,000 inhabitants[5] but its built-up-urban area (that stretches beyond the boundaries of the Metropolitan City of Milan), has a population estimated to be about 5,270,000 in 1,891 square kilometres (730 square miles),[6] ranking 4th in the European Union. The wider Milan metropolitan area, known as Greater Milan, is a polycentric metropolitan region that comprehends almost every province of Lombardy, the Piedmont province of Novara, and some parts of the province of Piacenza and which counts an estimated population of 8,123,020.[7][8][9]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yalta</string>
+		<key>Description</key>
+		<string>Yalta (Crimean Tatar: Yalta; Russian: Я́лта; Ukrainian: Я́лта) is a Russian resort city on the south coast of the Crimean Peninsula surrounded by the Black Sea. It serves as the administrative center of Yalta Municipality, one of the regions within Crimea. Population: 76,746 (2014 Census).[2]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Barcelona</string>
+		<key>Description</key>
+		<string>Barcelona (/bɑːrsəˈloʊnə/, Catalan: [bəɾsəˈlonə], Spanish: [barθeˈlona]) is the capital city of the autonomous community of Catalonia in the Kingdom of Spain, as well as the country&apos;s second most populous municipality, with a population of 1.6 million within city limits.[2] Its urban area extends beyond the administrative city limits with a population of around 4.7 million people,[5] being the sixth-most populous urban area in the European Union after Paris, London, Madrid, the Ruhr area and Milan.[3] It is the largest metropolis on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 metres (1,680 feet) high.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Athens</string>
+		<key>Description</key>
+		<string>Athens (/ˈæθᵻnz/;[2] Modern Greek: Αθήνα, Athína [aˈθina], Ancient Greek: Ἀθῆναι, Athênai, modern pronunciation Athínai) is the capital and largest city of Greece. Athens dominates the Attica region and is the world&apos;s oldest cities, with its recorded history spanning over 3,400 years, and its earliest human presence starting somewhere between the 11th and 7th century BC.[3]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Thessaloniki</string>
+		<key>Description</key>
+		<string>Thessaloniki (Greek: Θεσσαλονίκη [θesaloˈnici] (About this sound listen)), also familiarly known as Thessalonica or Salonica, is the second-largest city in Greece and the capital of Greek Macedonia, the administrative region of Central Macedonia and the Decentralized Administration of Macedonia and Thrace.[3][4] Its nickname is η Συμπρωτεύουσα (Symprotévousa), literally &quot;the co-capital&quot;,[5] a reference to its historical status as the Συμβασιλεύουσα (Symvasilévousa) or &quot;co-reigning&quot; city of the Eastern Roman (Byzantine) Empire, alongside Constantinople.[6]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sifnos</string>
+		<key>Description</key>
+		<string>Sifnos (Greek: Σίφνος; the spelling Siphnos is obsolete in English but still by convention often used to refer to the island in ancient times) is an island municipality in the Cyclades island group in Greece. The main town, near the center, known as Apollonia (pop. 869), is home of the island&apos;s folklore museum and library. The town&apos;s name is thought to come from an ancient temple of Apollo on the site of the church of Panayia Yeraniofora. The second-largest town is Artemonas (800), thought to be named after an ancient temple of Apollo&apos;s sister-goddess Artemis, located at the site of the church of Panayia Kokhi. The village of Kastro (118), was the capital of the island during ancient times until 1836. It is built on top of a high cliff on the island&apos;s east shore and today has extensive medieval remains and is the location of the island&apos;s archeological museum. The port settlement, on the west coast of the island is known as Kamares (245).[2]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Clermont-Ferrand</string>
+		<key>Description</key>
+		<string>Clermont-Ferrand (French pronunciation: ​[klɛʁmɔ̃ fɛʁɑ̃], Auvergnat Clarmont-Ferrand or Clarmont d&apos;Auvèrnhe, Latin: Augustonemetum) is a city and commune of France, in the Auvergne-Rhône-Alpes region, with a population of 141,569 (2012).[2] Its metropolitan area had 467,178 inhabitants at the 2011 census. It is the prefecture (capital) of the Puy-de-Dôme department. Olivier Bianchi is its current mayor.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Moscow</string>
+		<key>Description</key>
+		<string>Moscow (/ˈmɒskoʊ/ or /ˈmɒskaʊ/; Russian: Москва́, tr. Moskva; IPA: [mɐˈskva] (About this sound listen)) is the capital and most populous city of Russia, with 13.2 million residents within the city limits and 17.8 million within the urban area. Moscow has the status of a Russian federal city.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Madrid</string>
+		<key>Description</key>
+		<string>Madrid (/məˈdrɪd/, Spanish: [maˈðɾið], locally [maˈðɾi(θ)]) is the capital city of the Kingdom of Spain and the largest municipality in both the Community of Madrid and Spain as a whole. The city has a population of almost 3.2 million[4] with a metropolitan area population of approximately 6.5 million. It is the third-largest city in the European Union (EU) after London and Berlin, and its metropolitan area is the third-largest in the EU after those of London and Paris.[5][6][7][8] The municipality itself covers an area of 604.3 km2 (233.3 sq mi).[9]</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sofia</string>
+		<key>Description</key>
+		<string>Sofia (/ˈsoʊfiə/ or /ˈsɒfiə/ or /soʊˈfiːə/;[10][11]) (Bulgarian: София, translit. Sofiya,[12][13]pronounced [ˈsɔfiə, ˈsɔfjə] (About this sound listen)) is the capital and largest city of Bulgaria. 1.26 million people live in the city and 1.68 million people live in its metropolitan area.[8] The city is at the foot of Vitosha Mountain in the western part of the country. Being in the centre of the Balkan peninsula, it is midway between the Black Sea and the Adriatic Sea, whereas the Aegean Sea is the closest to it.[14][15]</string>
+	</dict>
+</array>
+</plist>
